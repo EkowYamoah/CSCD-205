@@ -8,7 +8,7 @@ int gcd(int Fnum, int Snum);
 
 int main() {
 	int Fnum, Snum, C;
-/*This program calculates the Greatest common divisor of to numbers*/	
+/*This program calculates the Greatest common divisor of two numbers*/	
 	cout<<"PLEASE ENTER FIRST NUMBER HERE: ";
 	cin>>Fnum;
 	cout<<"PLEASE ENTER SECOND NUMBER:  ";
